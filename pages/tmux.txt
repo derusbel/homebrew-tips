@@ -1,0 +1,24 @@
+
+
+	tmux
+	
+	Splits your terminal into several, and keeps them running
+	even if you close the window.
+	More information: https://manned.org/tmux.
+
+
+		- Start a session with a name:
+		tmux new -s work
+
+		- Leave it running and step away:
+		tmux detach
+
+		- Come back to it later:
+		tmux attach -t work
+
+		- See the sessions you left open:
+		tmux ls
+
+
+	 If you do not have it yet: brew install tmux.
+

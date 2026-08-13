@@ -1,0 +1,21 @@
+
+
+	dnf
+	
+	Installs and removes programs on Fedora and Red Hat machines.
+	More information: https://dnf.readthedocs.io/en/latest/command_ref.html.
+
+
+		- Install a program:
+		sudo dnf install git
+
+		- Remove a program:
+		sudo dnf remove git
+
+		- Look for a program:
+		dnf search git
+
+		- Update everything:
+		sudo dnf upgrade
+
+

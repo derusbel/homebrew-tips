@@ -1,0 +1,14 @@
+
+
+	exit
+	
+	Closes the terminal session you are in.
+	More information: https://manned.org/exit.
+
+
+		- Leave:
+		exit
+
+
+	 Pressing "control + d" does the same thing.
+

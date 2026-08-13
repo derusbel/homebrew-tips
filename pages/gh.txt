@@ -1,0 +1,24 @@
+
+
+	gh
+	
+	Works with GitHub itself from the terminal:
+	your projects, issues and pull requests.
+	More information: https://cli.github.com/manual/.
+
+
+		- Sign in to GitHub:
+		gh auth login
+
+		- Make a new project on GitHub from this folder:
+		gh repo create
+
+		- Open a pull request:
+		gh pr create
+
+		- See the issues waiting for you:
+		gh issue list
+
+
+	 If you do not have it yet: brew install gh.
+

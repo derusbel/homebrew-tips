@@ -1,0 +1,24 @@
+
+
+	git
+	
+	Keeps the history of your project, so you can go back
+	to how it was on any day.
+	More information: https://git-scm.com/docs.
+
+
+		- Start keeping history for the folder you are in:
+		git init
+
+		- See how things stand right now:
+		git status
+
+		- Save a snapshot of your work:
+		git add . && git commit -m "What I did"
+
+		- Send your work to GitHub:
+		git push
+
+
+	 Every git command has its own page here. Try "tips git-commit".
+

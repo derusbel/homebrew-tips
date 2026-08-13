@@ -1,0 +1,21 @@
+
+
+	sort
+	
+	Puts the lines of a file in order.
+	More information: https://manned.org/sort.
+
+
+		- Put lines in alphabetical order:
+		sort file.txt
+
+		- Put them in backwards order:
+		sort -r file.txt
+
+		- Order numbers properly, smallest first:
+		sort -n file.txt
+
+		- Save the ordered result into a new file:
+		sort file.txt -o sorted.txt
+
+

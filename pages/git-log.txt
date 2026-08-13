@@ -1,0 +1,23 @@
+
+
+	git-log
+	
+	Shows the history of the project: who saved what, and when.
+	More information: https://git-scm.com/docs/git-log.
+
+
+		- See the history:
+		git log
+
+		- See it as one tidy line per save:
+		git log --oneline
+
+		- See the last 5 saves:
+		git log -5
+
+		- See it as a drawing of the branches:
+		git log --oneline --graph --all
+
+
+	 It opens in a reader. Press "q" to come back.
+

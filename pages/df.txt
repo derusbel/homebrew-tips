@@ -1,0 +1,15 @@
+
+
+	df
+	
+	Tells you how much room is left on your disk.
+	More information: https://manned.org/df.
+
+
+		- See the free space in a readable way:
+		df -h
+
+		- See the space on the disk holding this folder:
+		df -h .
+
+

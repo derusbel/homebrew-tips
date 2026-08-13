@@ -1,0 +1,20 @@
+
+
+	uniq
+	
+	Removes lines that are repeated one after another.
+	More information: https://manned.org/uniq.
+
+
+		- Hide repeated lines:
+		uniq file.txt
+
+		- Count how many times each line appears:
+		uniq -c file.txt
+
+		- Show only the lines that repeat:
+		uniq -d file.txt
+
+
+	 It only notices repeats that sit next to each other, so sort the file first.
+

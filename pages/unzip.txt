@@ -1,0 +1,18 @@
+
+
+	unzip
+	
+	Opens a zip file.
+	More information: https://manned.org/unzip.
+
+
+		- Unzip here:
+		unzip bundle.zip
+
+		- Unzip into a chosen folder:
+		unzip bundle.zip -d path/to/folder
+
+		- Look inside without unzipping:
+		unzip -l bundle.zip
+
+

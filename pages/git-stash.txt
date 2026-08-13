@@ -1,0 +1,24 @@
+
+
+	git-stash
+	
+	Puts your half-finished work aside for a moment,
+	and gives it back when you ask.
+	More information: https://git-scm.com/docs/git-stash.
+
+
+		- Put your changes aside:
+		git stash
+
+		- Take them back:
+		git stash pop
+
+		- See what you have put aside:
+		git stash list
+
+		- Put them aside with a note:
+		git stash push -m "half done"
+
+
+	 Perfect when you must switch branches in a hurry.
+

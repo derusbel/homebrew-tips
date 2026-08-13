@@ -1,0 +1,21 @@
+
+
+	tree
+	
+	Draws your folders as a little tree, so you can see how they nest.
+	More information: https://manned.org/tree.
+
+
+		- Draw everything from here down:
+		tree
+
+		- Only go two levels deep:
+		tree -L 2
+
+		- Show hidden things too:
+		tree -a
+
+		- Draw a chosen folder:
+		tree path/to/folder
+
+

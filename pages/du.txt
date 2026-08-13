@@ -1,0 +1,20 @@
+
+
+	du
+	
+	Tells you how much space folders are taking up.
+	More information: https://manned.org/du.
+
+
+		- See the size of this folder in a readable way:
+		du -sh .
+
+		- See the size of each folder inside:
+		du -sh *
+
+		- Find the biggest folders, largest first:
+		du -sh * | sort -hr
+
+
+	 The "h" stands for human, so you get MB and GB instead of huge numbers.
+

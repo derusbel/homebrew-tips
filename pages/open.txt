@@ -1,0 +1,21 @@
+
+
+	open
+	
+	Opens a file or folder the normal way, with your usual apps.
+	More information: https://manned.org/open.
+
+
+		- Open a file with the app that usually opens it:
+		open file.pdf
+
+		- Show the folder you are in, in a window:
+		open .
+
+		- Open a website:
+		open https://example.com
+
+		- Open a file with a chosen app:
+		open -a "TextEdit" file.txt
+
+

@@ -1,0 +1,18 @@
+
+
+	git-clone
+	
+	Downloads a copy of a project, with all its history.
+	More information: https://git-scm.com/docs/git-clone.
+
+
+		- Download a project:
+		git clone https://github.com/user/project.git
+
+		- Download it into a folder you name:
+		git clone https://github.com/user/project.git my-folder
+
+		- Download only the latest version, to save time:
+		git clone --depth 1 https://github.com/user/project.git
+
+

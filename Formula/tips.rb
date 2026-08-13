@@ -1,6 +1,6 @@
 class Tips < Formula
-  desc "Tips gives you fast explanations for commands. Simply."
-  homepage "https://github.com/theFranco2/homebrew-tips"
+  desc "Tips gives you simple explanations for commands."
+  homepage "https://github.com/derusbel/homebrew-tip:s"
   url "https://github.com/theFranco2/homebrew-tips/archive/refs/tags/v1.0.2.tar.gz"
   sha256 "f550f50a5bb9d97778afc1e3ca5474a906b719de4ac1ece86c0d862baac385b2"
   license "BSD-2-Clause"

@@ -1,0 +1,21 @@
+
+
+	git-reset
+	
+	Moves you back to an earlier save.
+	More information: https://git-scm.com/docs/git-reset.
+				[38;2;255;66;69m
+	Warning: *The last one deletes your work for good. Only use it when you are sure.*
+				[0m
+
+
+		- Unchoose files, but keep every change you made:
+		git reset
+
+		- Undo the last save, keeping the work:
+		git reset --soft HEAD~1
+
+		- Undo the last save and throw the work away:
+		git reset --hard HEAD~1
+
+

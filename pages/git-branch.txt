@@ -1,0 +1,23 @@
+
+
+	git-branch
+	
+	Branches let you try something without disturbing the main work.
+	More information: https://git-scm.com/docs/git-branch.
+
+
+		- See the branches you have:
+		git branch
+
+		- Make a new branch:
+		git branch my-idea
+
+		- Delete a branch you have finished with:
+		git branch -d my-idea
+
+		- Rename the branch you are on:
+		git branch -m new-name
+
+
+	 To actually move onto a branch, see the "git-switch" page.
+

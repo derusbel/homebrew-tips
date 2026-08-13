@@ -1,0 +1,17 @@
+
+
+	git-init
+	
+	Starts keeping history for the folder you are in.
+	More information: https://git-scm.com/docs/git-init.
+
+
+		- Start keeping history here:
+		git init
+
+		- Start a brand new folder with history:
+		git init my-project
+
+
+	 You only ever do this once per project.
+

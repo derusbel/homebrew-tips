@@ -1,0 +1,19 @@
+
+
+	cut
+	
+	Takes one piece out of every line.
+	Handy for lists and spreadsheet files.
+	More information: https://manned.org/cut.
+
+
+		- Take the first column of a comma list:
+		cut -d , -f 1 list.csv
+
+		- Take the second and third columns:
+		cut -d , -f 2,3 list.csv
+
+		- Take the first 10 letters of every line:
+		cut -c 1-10 file.txt
+
+

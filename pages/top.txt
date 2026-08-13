@@ -1,0 +1,20 @@
+
+
+	top
+	
+	A live list of what is running, and what is eating your machine.
+	More information: https://manned.org/top.
+
+
+		- Watch what is running:
+		top
+
+		- Sort by which is using the most processor:
+		top -o cpu
+
+		- Sort by which is using the most memory:
+		top -o mem
+
+
+	 Press "q" to quit.
+

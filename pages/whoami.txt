@@ -1,0 +1,15 @@
+
+
+	whoami
+	
+	Tells you which user you are signed in as.
+	More information: https://manned.org/whoami.
+
+
+		- Ask who you are:
+		whoami
+
+		- Ask who you are while being the boss:
+		sudo whoami
+
+

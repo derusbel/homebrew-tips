@@ -1,0 +1,17 @@
+
+
+	htop
+	
+	A friendlier, more colourful version of "top".
+	More information: https://manned.org/htop.
+
+
+		- Watch what is running:
+		htop
+
+		- Watch only your own programs:
+		htop -u $(whoami)
+
+
+	 If you do not have it yet: brew install htop. Quit with "q".
+

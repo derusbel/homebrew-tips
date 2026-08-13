@@ -1,0 +1,20 @@
+
+
+	tar
+	
+	Packs many files into one bundle, and unpacks them again.
+	More information: https://manned.org/tar.
+
+
+		- Unpack a bundle:
+		tar -xf bundle.tar.gz
+
+		- Pack a folder into a bundle:
+		tar -czf bundle.tar.gz folder/
+
+		- Peek inside without unpacking:
+		tar -tf bundle.tar.gz
+
+
+	 Remember "x" for extract, and "c" for create.
+

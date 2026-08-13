@@ -1,0 +1,15 @@
+
+
+	stat
+	
+	Shows the details of a file: its size, and when it was last touched.
+	More information: https://manned.org/stat.
+
+
+		- See everything about a file:
+		stat file.txt
+
+		- See just the size in bytes:
+		stat -f %z file.txt
+
+

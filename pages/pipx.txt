@@ -1,0 +1,24 @@
+
+
+	pipx
+	
+	Installs Python tools you want to use anywhere,
+	each one kept tidily on its own.
+	More information: https://pipx.pypa.io/stable/.
+
+
+		- Install a tool:
+		pipx install black
+
+		- Remove it:
+		pipx uninstall black
+
+		- See what you installed:
+		pipx list
+
+		- Update everything:
+		pipx upgrade-all
+
+
+	 If you do not have it yet: brew install pipx.
+

@@ -1,0 +1,17 @@
+
+
+	git-fetch
+	
+	Looks at what is new on GitHub, without touching your work yet.
+	More information: https://git-scm.com/docs/git-fetch.
+
+
+		- See what is new:
+		git fetch
+
+		- Check everything, and forget branches that were deleted:
+		git fetch --all --prune
+
+
+	 This is the careful version of "git-pull". It only looks.
+

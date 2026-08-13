@@ -1,0 +1,18 @@
+
+
+	more
+	
+	Shows a long file one screen at a time.
+	The simpler, older brother of "less".
+	More information: https://manned.org/more.
+
+
+		- Read a file page by page:
+		more file.txt
+
+		- Start reading from line 20:
+		more +20 file.txt
+
+
+	 Press the space bar for the next page, and "q" to quit.
+

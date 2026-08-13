@@ -1,0 +1,21 @@
+
+
+	git-diff
+	
+	Shows exactly what you changed, line by line.
+	More information: https://git-scm.com/docs/git-diff.
+
+
+		- See what you changed but have not chosen yet:
+		git diff
+
+		- See what you have chosen to save:
+		git diff --staged
+
+		- See the changes in one file:
+		git diff file.txt
+
+		- Compare two branches:
+		git diff main my-branch
+
+

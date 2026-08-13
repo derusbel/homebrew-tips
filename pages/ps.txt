@@ -1,0 +1,17 @@
+
+
+	ps
+	
+	Lists the programs running right now.
+	More information: https://manned.org/ps.
+
+
+		- See everything running:
+		ps aux
+
+		- Look for one program:
+		ps aux | grep "Safari"
+
+
+	 The number in the second column is the program number. You need it for the "kill" page.
+

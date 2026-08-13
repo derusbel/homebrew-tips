@@ -1,0 +1,20 @@
+
+
+	git-add
+	
+	Chooses which changes go into your next save.
+	More information: https://git-scm.com/docs/git-add.
+
+
+		- Choose everything you changed:
+		git add .
+
+		- Choose one file:
+		git add file.txt
+
+		- Change your mind and unchoose everything:
+		git reset
+
+
+	 Nothing is saved yet. See the "git-commit" page for that.
+

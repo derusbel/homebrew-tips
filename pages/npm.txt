@@ -1,0 +1,23 @@
+
+
+	npm
+	
+	Installs the building blocks that JavaScript projects need.
+	More information: https://docs.npmjs.com/cli/v10/commands/npm.
+
+
+		- Install everything this project asks for:
+		npm install
+
+		- Add one new thing to the project:
+		npm install react
+
+		- Install a tool you can use anywhere:
+		npm install -g typescript
+
+		- Remove something:
+		npm uninstall react
+
+
+	 Run it inside the project folder, where the package.json file lives.
+

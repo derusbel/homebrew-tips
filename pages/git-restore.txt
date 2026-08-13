@@ -1,0 +1,21 @@
+
+
+	git-restore
+	
+	Puts a file back the way it was at your last save.
+	More information: https://git-scm.com/docs/git-restore.
+				[38;2;255;66;69m
+	Warning: *Thrown-away changes were never saved, so git cannot bring them back.*
+				[0m
+
+
+		- Throw away your changes to one file:
+		git restore file.txt
+
+		- Throw away every change you made:
+		git restore .
+
+		- Unchoose a file, but keep your changes:
+		git restore --staged file.txt
+
+

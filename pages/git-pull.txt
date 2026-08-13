@@ -1,0 +1,18 @@
+
+
+	git-pull
+	
+	Brings down what other people have sent to GitHub,
+	and joins it with your work.
+	More information: https://git-scm.com/docs/git-pull.
+
+
+		- Get the latest work:
+		git pull
+
+		- Get it and keep the history tidy:
+		git pull --rebase
+
+
+	 Save your own work first, or git will ask you to. See "git-stash" if you are mid-way through something.
+

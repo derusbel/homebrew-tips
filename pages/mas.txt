@@ -1,0 +1,23 @@
+
+
+	mas
+	
+	Installs apps from the Mac App Store, from the terminal.
+	More information: https://github.com/mas-cli/mas.
+
+
+		- Look for an app:
+		mas search "Pages"
+
+		- Install one using the number it showed you:
+		mas install 409201541
+
+		- See what you have installed:
+		mas list
+
+		- Update all of them:
+		mas upgrade
+
+
+	 If you do not have it yet: brew install mas.
+

@@ -1,0 +1,22 @@
+
+
+	git-rebase
+	
+	Replays your work on top of the latest version,
+	so the history reads as one straight line.
+	More information: https://git-scm.com/docs/git-rebase.
+				[38;2;255;66;69m
+	Warning: *Never rebase work you have already sent to GitHub and shared with others.*
+				[0m
+
+
+		- Replay your branch on top of main:
+		git rebase main
+
+		- Tidy up your last 3 saves:
+		git rebase -i HEAD~3
+
+		- Give up and go back:
+		git rebase --abort
+
+

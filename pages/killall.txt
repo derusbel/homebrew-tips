@@ -1,0 +1,18 @@
+
+
+	killall
+	
+	Closes every copy of a program, by name instead of by number.
+	More information: https://manned.org/killall.
+				[38;2;255;66;69m
+	Warning: *This closes every window of that program at once, saved or not.*
+				[0m
+
+
+		- Close a program by name:
+		killall "Safari"
+
+		- Force it closed:
+		killall -9 "Safari"
+
+

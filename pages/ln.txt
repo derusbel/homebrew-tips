@@ -1,0 +1,17 @@
+
+
+	ln
+	
+	Makes a shortcut to a file or folder.
+	More information: https://manned.org/ln.
+
+
+		- Make a shortcut:
+		ln -s path/to/original shortcut
+
+		- Make a shortcut inside another folder:
+		ln -s path/to/original path/to/folder/
+
+
+	 The "s" makes a normal shortcut, which is the one you almost always want.
+

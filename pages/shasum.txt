@@ -1,0 +1,17 @@
+
+
+	shasum
+	
+	Checks that a file you downloaded arrived in one piece.
+	More information: https://manned.org/shasum.
+
+
+		- Get the fingerprint of a file:
+		shasum -a 256 file.zip
+
+		- Compare it with the one the website gave you:
+		shasum -a 256 -c fingerprint.txt
+
+
+	 If the long code matches the one on the website, the file is fine.
+

@@ -1,0 +1,20 @@
+
+
+	tail
+	
+	Shows you the end of a file.
+	More information: https://manned.org/tail.
+
+
+		- See the last 10 lines:
+		tail file.txt
+
+		- See the last 3 lines:
+		tail -n 3 file.txt
+
+		- Keep watching a file while it grows:
+		tail -f file.txt
+
+
+	 The last one keeps running. Press "control + c" to stop it.
+

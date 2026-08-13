@@ -1,0 +1,21 @@
+
+
+	pacman
+	
+	Installs and removes programs on Arch machines.
+	More information: https://manned.org/pacman.
+
+
+		- Install a program:
+		sudo pacman -S git
+
+		- Remove a program and its leftovers:
+		sudo pacman -Rns git
+
+		- Look for a program:
+		pacman -Ss git
+
+		- Update everything:
+		sudo pacman -Syu
+
+

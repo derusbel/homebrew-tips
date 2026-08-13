@@ -1,0 +1,20 @@
+
+
+	caffeinate
+	
+	Stops your machine falling asleep.
+	More information: https://manned.org/caffeinate.
+
+
+		- Keep it awake until you stop this:
+		caffeinate
+
+		- Keep it awake for one hour:
+		caffeinate -t 3600
+
+		- Keep it awake until a command finishes:
+		caffeinate brew upgrade
+
+
+	 Press "control + c" to let it sleep again.
+

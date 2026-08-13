@@ -1,0 +1,20 @@
+
+
+	export
+	
+	Sets a setting that other commands can read.
+	More information: https://manned.org/export.
+
+
+		- Set a setting:
+		export EDITOR="nano"
+
+		- See what one is set to:
+		echo $EDITOR
+
+		- See all of them:
+		export
+
+
+	 Like nicknames, these vanish when you close the terminal unless you save them in your ~/.zshrc file.
+

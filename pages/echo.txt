@@ -1,0 +1,20 @@
+
+
+	echo
+	
+	Prints whatever you tell it.
+	More information: https://manned.org/echo.
+
+
+		- Print a message:
+		echo "Hello"
+
+		- Put a message into a new file:
+		echo "Hello" > file.txt
+
+		- Add a message to the end of a file:
+		echo "Hello" >> file.txt
+
+
+	 One ">" replaces the whole file. Two ">>" only add to it.
+

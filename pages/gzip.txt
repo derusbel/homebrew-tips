@@ -1,0 +1,20 @@
+
+
+	gzip
+	
+	Squeezes a single file to make it smaller.
+	More information: https://manned.org/gzip.
+
+
+		- Squeeze a file:
+		gzip file.txt
+
+		- Unsqueeze it again:
+		gunzip file.txt.gz
+
+		- Squeeze it but keep the original too:
+		gzip -k file.txt
+
+
+	 For a bundle of many files, see the "tar" or "zip" pages.
+

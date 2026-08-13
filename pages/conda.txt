@@ -1,0 +1,21 @@
+
+
+	conda
+	
+	Keeps separate Python setups apart, so projects do not fight.
+	More information: https://docs.conda.io/projects/conda/en/stable/commands/index.html.
+
+
+		- Make a new setup:
+		conda create -n myproject python=3.12
+
+		- Step into it:
+		conda activate myproject
+
+		- Step out of it:
+		conda deactivate
+
+		- Install something inside it:
+		conda install numpy
+
+

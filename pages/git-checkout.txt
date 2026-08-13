@@ -1,0 +1,20 @@
+
+
+	git-checkout
+	
+	The old command for moving between branches and old versions.
+	More information: https://git-scm.com/docs/git-checkout.
+
+
+		- Move onto a branch:
+		git checkout my-idea
+
+		- Make a branch and move onto it:
+		git checkout -b my-idea
+
+		- Look at how the project was at an older save:
+		git checkout abc1234
+
+
+	 For everyday work, "git-switch" and "git-restore" are easier to keep straight.
+

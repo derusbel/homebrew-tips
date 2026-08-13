@@ -1,0 +1,21 @@
+
+
+	git-commit
+	
+	Saves a snapshot of the changes you chose,
+	with a note about what you did.
+	More information: https://git-scm.com/docs/git-commit.
+
+
+		- Save with a note:
+		git commit -m "Fixed the login button"
+
+		- Choose everything and save in one go:
+		git commit -a -m "Fixed the login button"
+
+		- Fix the note on your last save:
+		git commit --amend -m "A better note"
+
+
+	 Write the note for the person you will be in six months.
+

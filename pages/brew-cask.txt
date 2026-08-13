@@ -1,0 +1,22 @@
+
+
+	brew-cask
+	
+	Installs proper apps with windows, the kind you would normally
+	download from a website.
+	More information: https://docs.brew.sh/Cask-Cookbook.
+
+
+		- Install an app:
+		brew install --cask firefox
+
+		- Remove an app:
+		brew uninstall --cask firefox
+
+		- Look for an app:
+		brew search --cask firefox
+
+		- See the apps you installed this way:
+		brew list --cask
+
+

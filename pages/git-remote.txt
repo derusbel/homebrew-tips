@@ -1,0 +1,20 @@
+
+
+	git-remote
+	
+	Manages the address of the copy on GitHub.
+	More information: https://git-scm.com/docs/git-remote.
+
+
+		- See where your project sends its work:
+		git remote -v
+
+		- Set the address for the first time:
+		git remote add origin https://github.com/user/project.git
+
+		- Change the address:
+		git remote set-url origin https://github.com/user/other.git
+
+
+	 "origin" is just the usual nickname for the copy on GitHub.
+

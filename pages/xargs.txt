@@ -1,0 +1,18 @@
+
+
+	xargs
+	
+	Takes a list of things and feeds them to another command, one by one.
+	More information: https://manned.org/xargs.
+				[38;2;255;66;69m
+	Warning: *Check the list on its own first. Feeding a wrong list into a delete cannot be undone.*
+				[0m
+
+
+		- Delete every file that was found:
+		find . -name "*.log" | xargs rm
+
+		- Count the lines in every text file found:
+		find . -name "*.txt" | xargs wc -l
+
+

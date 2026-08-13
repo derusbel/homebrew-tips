@@ -1,0 +1,18 @@
+
+
+	pbcopy
+	
+	Copies something straight into your clipboard,
+	ready to paste anywhere.
+	More information: https://manned.org/pbcopy.
+
+
+		- Copy the contents of a file:
+		pbcopy < file.txt
+
+		- Copy what a command prints:
+		pwd | pbcopy
+
+
+	 To paste it back in the terminal, see the "pbpaste" page.
+

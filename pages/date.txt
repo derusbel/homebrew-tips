@@ -1,0 +1,18 @@
+
+
+	date
+	
+	Shows the date and time.
+	More information: https://manned.org/date.
+
+
+		- See the date and time now:
+		date
+
+		- See it as year-month-day:
+		date "+%Y-%m-%d"
+
+		- See just the time:
+		date "+%H:%M"
+
+

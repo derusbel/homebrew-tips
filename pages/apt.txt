@@ -1,0 +1,23 @@
+
+
+	apt
+	
+	Installs and removes programs on Debian and Ubuntu machines.
+	More information: https://manned.org/apt.
+
+
+		- Refresh the list of available programs:
+		sudo apt update
+
+		- Install a program:
+		sudo apt install git
+
+		- Remove a program:
+		sudo apt remove git
+
+		- Update everything you have:
+		sudo apt upgrade
+
+
+	 Always refresh the list first, or it may install an old version.
+

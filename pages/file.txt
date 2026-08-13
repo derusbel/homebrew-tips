@@ -1,0 +1,17 @@
+
+
+	file
+	
+	Tells you what kind of file something really is.
+	More information: https://manned.org/file.
+
+
+		- Ask what a file is:
+		file mystery
+
+		- Ask about everything in this folder:
+		file *
+
+
+	 Useful when a file has no ending, or the wrong one.
+

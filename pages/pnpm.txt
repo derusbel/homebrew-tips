@@ -1,0 +1,21 @@
+
+
+	pnpm
+	
+	Installs what a JavaScript project needs, while saving disk space.
+	More information: https://pnpm.io/cli/add.
+
+
+		- Install everything this project asks for:
+		pnpm install
+
+		- Add one new thing:
+		pnpm add react
+
+		- Remove something:
+		pnpm remove react
+
+		- Run one of the project's own commands:
+		pnpm run build
+
+

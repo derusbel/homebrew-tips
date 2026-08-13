@@ -1,0 +1,21 @@
+
+
+	snap
+	
+	Installs programs that come with everything they need inside.
+	More information: https://manned.org/snap.
+
+
+		- Install a program:
+		sudo snap install vlc
+
+		- Remove it:
+		sudo snap remove vlc
+
+		- Look for one:
+		snap find vlc
+
+		- See what you have:
+		snap list
+
+

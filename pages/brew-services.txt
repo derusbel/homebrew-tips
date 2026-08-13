@@ -1,0 +1,22 @@
+
+
+	brew-services
+	
+	Starts and stops background programs that brew installed,
+	like databases.
+	More information: https://docs.brew.sh/Manpage.
+
+
+		- See what is running:
+		brew services list
+
+		- Start something and keep it running:
+		brew services start postgresql
+
+		- Stop it:
+		brew services stop postgresql
+
+		- Restart it:
+		brew services restart postgresql
+
+

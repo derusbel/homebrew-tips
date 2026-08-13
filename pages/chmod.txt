@@ -1,0 +1,24 @@
+
+
+	chmod
+	
+	Decides who is allowed to read, change or run a file.
+	More information: https://manned.org/chmod.
+				[38;2;255;66;69m
+	Warning: *Never use 777. It lets anyone on the machine change the file.*
+				[0m
+
+
+		- Let a file be run as a program:
+		chmod +x script.sh
+
+		- Stop a file being run:
+		chmod -x script.sh
+
+		- Let only you read and write it:
+		chmod 600 secret.txt
+
+		- Change a folder and everything inside:
+		chmod -R 755 folder/
+
+

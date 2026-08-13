@@ -1,0 +1,18 @@
+
+
+	say
+	
+	Reads text out loud.
+	More information: https://manned.org/say.
+
+
+		- Say something:
+		say "Hello"
+
+		- Read a whole file out loud:
+		say -f file.txt
+
+		- Save it as an audio file:
+		say "Hello" -o hello.aiff
+
+

@@ -1,0 +1,23 @@
+
+
+	brew
+	
+	Installs and removes programs on your Mac, from the terminal.
+	More information: https://docs.brew.sh.
+
+
+		- Install a program:
+		brew install wget
+
+		- Remove a program:
+		brew uninstall wget
+
+		- Look for a program before installing it:
+		brew search wget
+
+		- Update everything you have installed:
+		brew upgrade
+
+
+	 See the "brew-cask" page for full apps with windows, like browsers.
+

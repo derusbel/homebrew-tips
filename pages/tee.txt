@@ -1,0 +1,15 @@
+
+
+	tee
+	
+	Shows you something on screen and saves it to a file at the same time.
+	More information: https://manned.org/tee.
+
+
+		- Save what a command prints, and still see it:
+		ls | tee list.txt
+
+		- Add it to the end of a file instead of replacing it:
+		ls | tee -a list.txt
+
+

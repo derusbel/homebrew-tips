@@ -1,0 +1,20 @@
+
+
+	brew-doctor
+	
+	Checks brew for problems and tells you how to fix them.
+	More information: https://docs.brew.sh/FAQ.
+
+
+		- Check for problems:
+		brew doctor
+
+		- Refresh the list of available programs:
+		brew update
+
+		- Throw away old downloads to free space:
+		brew cleanup
+
+
+	 Run this first whenever brew starts behaving oddly.
+

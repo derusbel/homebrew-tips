@@ -1,0 +1,23 @@
+
+
+	git-config
+	
+	Tells git who you are, and how you like things.
+	More information: https://git-scm.com/docs/git-config.
+
+
+		- Set your name:
+		git config --global user.name "Your Name"
+
+		- Set your email:
+		git config --global user.email "you@example.com"
+
+		- See all your settings:
+		git config --list
+
+		- Choose the editor git opens:
+		git config --global core.editor "nano"
+
+
+	 Do the first two once, when git is new on your machine.
+

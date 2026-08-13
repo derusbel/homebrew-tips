@@ -1,0 +1,20 @@
+
+
+	head
+	
+	Shows you the beginning of a file.
+	More information: https://manned.org/head.
+
+
+		- See the first 10 lines:
+		head file.txt
+
+		- See the first 3 lines:
+		head -n 3 file.txt
+
+		- See the beginning of several files:
+		head file1.txt file2.txt
+
+
+	 For the end of a file instead, see the "tail" page.
+

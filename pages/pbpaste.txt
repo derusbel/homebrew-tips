@@ -1,0 +1,15 @@
+
+
+	pbpaste
+	
+	Pours whatever is in your clipboard into the terminal.
+	More information: https://manned.org/pbpaste.
+
+
+		- See what you have copied:
+		pbpaste
+
+		- Save what you copied into a file:
+		pbpaste > file.txt
+
+

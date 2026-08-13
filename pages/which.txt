@@ -1,0 +1,17 @@
+
+
+	which
+	
+	Tells you where a command actually lives on your machine.
+	More information: https://manned.org/which.
+
+
+		- Find where a command lives:
+		which python3
+
+		- Show every copy of it you have:
+		which -a python3
+
+
+	 No answer means the command is not installed, or your machine cannot find it.
+

@@ -1,0 +1,18 @@
+
+
+	cal
+	
+	Shows a calendar.
+	More information: https://manned.org/cal.
+
+
+		- See this month:
+		cal
+
+		- See the whole year:
+		cal -y
+
+		- See one chosen month:
+		cal 12 2026
+
+

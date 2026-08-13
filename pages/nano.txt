@@ -1,0 +1,18 @@
+
+
+	nano
+	
+	A simple text editor, right in the terminal.
+	The friendliest one to start with.
+	More information: https://manned.org/nano.
+
+
+		- Open or create a file to write in it:
+		nano file.txt
+
+		- Open it showing line numbers:
+		nano -l file.txt
+
+
+	 Save with "control + o", then quit with "control + x".
+

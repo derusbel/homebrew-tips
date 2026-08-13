@@ -1,0 +1,21 @@
+
+
+	cargo
+	
+	Builds and runs Rust projects, and installs what they need.
+	More information: https://doc.rust-lang.org/cargo/commands/index.html.
+
+
+		- Start a new project:
+		cargo new my-project
+
+		- Run it:
+		cargo run
+
+		- Add something it needs:
+		cargo add serde
+
+		- Build the finished, fast version:
+		cargo build --release
+
+

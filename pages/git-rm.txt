@@ -1,0 +1,20 @@
+
+
+	git-rm
+	
+	Deletes a file and tells git it is gone.
+	More information: https://git-scm.com/docs/git-rm.
+
+
+		- Delete a file from the project:
+		git rm file.txt
+
+		- Stop tracking a file but keep it on your machine:
+		git rm --cached file.txt
+
+		- Delete a folder and everything inside:
+		git rm -r folder/
+
+
+	 The middle one is what you want when a private file slipped in by accident.
+

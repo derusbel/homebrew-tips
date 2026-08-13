@@ -1,0 +1,18 @@
+
+
+	vim
+	
+	A powerful text editor, right in the terminal.
+	Famously hard to leave.
+	More information: https://manned.org/vim.
+
+
+		- Open or create a file:
+		vim file.txt
+
+		- Open a file at line 10:
+		vim +10 file.txt
+
+
+	 Press "i" to start typing. To leave, press "escape", then type :wq to save and quit, or :q! to quit without saving.
+

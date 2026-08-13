@@ -1,0 +1,20 @@
+
+
+	kill
+	
+	Closes a program that will not close by itself.
+	More information: https://manned.org/kill.
+				[38;2;255;66;69m
+	Warning: *Forcing a close throws away anything unsaved. Ask politely first.*
+				[0m
+
+
+		- Ask a program to close politely:
+		kill 1234
+
+		- Force it to close:
+		kill -9 1234
+
+
+	 The number is the program number. Find it with the "ps" page.
+

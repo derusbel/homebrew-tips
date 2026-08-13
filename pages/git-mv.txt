@@ -1,0 +1,15 @@
+
+
+	git-mv
+	
+	Renames or moves a file, and tells git about it.
+	More information: https://git-scm.com/docs/git-mv.
+
+
+		- Rename a file:
+		git mv old.txt new.txt
+
+		- Move a file into a folder:
+		git mv file.txt folder/
+
+

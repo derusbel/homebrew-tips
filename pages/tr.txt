@@ -1,0 +1,20 @@
+
+
+	tr
+	
+	Swaps letters or characters for others.
+	More information: https://manned.org/tr.
+
+
+		- Turn everything into capital letters:
+		tr a-z A-Z
+
+		- Turn spaces into new lines:
+		tr ' ' '\n'
+
+		- Delete every number:
+		tr -d 0-9
+
+
+	 It reads what you type, so it is usually fed by another command with the "|" sign.
+

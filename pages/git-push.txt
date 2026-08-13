@@ -1,0 +1,20 @@
+
+
+	git-push
+	
+	Sends your saved work up to GitHub.
+	More information: https://git-scm.com/docs/git-push.
+
+
+		- Send your work:
+		git push
+
+		- Send a new branch for the first time:
+		git push -u origin my-branch
+
+		- Send your labels too:
+		git push --tags
+
+
+	 If it refuses, someone else has sent work first. See the "git-pull" page.
+

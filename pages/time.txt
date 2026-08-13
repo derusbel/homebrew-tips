@@ -1,0 +1,15 @@
+
+
+	time
+	
+	Measures how long a command takes.
+	More information: https://manned.org/time.
+
+
+		- Time a command:
+		time ls -R
+
+		- Time a slow one:
+		time brew update
+
+

@@ -1,0 +1,21 @@
+
+
+	less
+	
+	Reads a long file one screen at a time,
+	so it does not all rush past you.
+	More information: https://manned.org/less.
+
+
+		- Open a file to read it:
+		less file.txt
+
+		- Open it with line numbers:
+		less -N file.txt
+
+		- Open it and keep the colors:
+		less -R file.txt
+
+
+	 Move with the arrow keys. Search by typing "/" and a word. Quit with "q".
+

@@ -1,0 +1,19 @@
+
+
+	bundle
+	
+	Installs exactly the Ruby pieces a project asks for,
+	in the versions it wants.
+	More information: https://bundler.io/man/bundle.1.html.
+
+
+		- Install everything the project asks for:
+		bundle install
+
+		- Update them:
+		bundle update
+
+		- Run a command using the project's own versions:
+		bundle exec rails server
+
+

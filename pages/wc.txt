@@ -1,0 +1,18 @@
+
+
+	wc
+	
+	Counts what is in a file: lines, words and letters.
+	More information: https://manned.org/wc.
+
+
+		- Count the lines, words and letters:
+		wc file.txt
+
+		- Count only the lines:
+		wc -l file.txt
+
+		- Count only the words:
+		wc -w file.txt
+
+

@@ -1,0 +1,20 @@
+
+
+	history
+	
+	Shows the commands you have typed before.
+	More information: https://manned.org/history.
+
+
+		- See your past commands:
+		history
+
+		- See the last 20 of them:
+		history 20
+
+		- Look for an old command you half remember:
+		history | grep "brew"
+
+
+	 The up arrow key walks back through the same list, one at a time.
+

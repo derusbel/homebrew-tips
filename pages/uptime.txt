@@ -1,0 +1,12 @@
+
+
+	uptime
+	
+	Tells you how long your machine has been switched on.
+	More information: https://manned.org/uptime.
+
+
+		- Ask how long it has been running:
+		uptime
+
+

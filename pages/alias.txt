@@ -1,0 +1,20 @@
+
+
+	alias
+	
+	Gives a long command a short nickname.
+	More information: https://manned.org/alias.
+
+
+		- Make a nickname for this session:
+		alias ll="ls -l -a"
+
+		- See all the nicknames you have:
+		alias
+
+		- Forget a nickname:
+		unalias ll
+
+
+	 Nicknames disappear when you close the terminal. To keep one, put the line in your ~/.zshrc file.
+

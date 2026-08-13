@@ -1,0 +1,20 @@
+
+
+	jobs
+	
+	Lists the things you left running in the background of this terminal.
+	More information: https://manned.org/jobs.
+
+
+		- See what is running in the background:
+		jobs
+
+		- Bring job number 1 back to the front:
+		fg %1
+
+		- Send job number 1 to keep going in the background:
+		bg %1
+
+
+	 Press "control + z" to push whatever is running into the background.
+

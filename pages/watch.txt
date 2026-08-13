@@ -1,0 +1,17 @@
+
+
+	watch
+	
+	Runs a command again and again, so you can watch it change.
+	More information: https://manned.org/watch.
+
+
+		- Run a command every 2 seconds:
+		watch ls
+
+		- Run it every 10 seconds:
+		watch -n 10 df -h
+
+
+	 If you do not have it yet: brew install watch. Stop it with "control + c".
+

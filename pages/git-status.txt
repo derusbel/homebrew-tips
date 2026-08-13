@@ -1,0 +1,17 @@
+
+
+	git-status
+	
+	Tells you what you have changed since your last save.
+	More information: https://git-scm.com/docs/git-status.
+
+
+		- See what has changed:
+		git status
+
+		- See it in a short, tidy list:
+		git status -s
+
+
+	 When you feel lost, run this first. It usually tells you what to do next.
+

@@ -1,0 +1,24 @@
+
+
+	sudo
+	
+	Runs a command as the boss of the machine.
+	It will ask for your password.
+	More information: https://manned.org/sudo.
+				[38;2;255;66;69m
+	Warning: *Only use this when you understand the command. As the boss, nothing stops you breaking things.*
+				[0m
+
+
+		- Run a command as the boss:
+		sudo command
+
+		- Redo the last command as the boss:
+		sudo !!
+
+		- Open a boss session that stays open:
+		sudo -i
+
+
+	 While you type your password, nothing appears on screen. That is normal.
+

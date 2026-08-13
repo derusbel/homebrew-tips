@@ -1,0 +1,21 @@
+
+
+	composer
+	
+	Installs the building blocks that PHP projects need.
+	More information: https://getcomposer.org/doc/03-cli.md.
+
+
+		- Install everything this project asks for:
+		composer install
+
+		- Add one new thing:
+		composer require monolog/monolog
+
+		- Remove something:
+		composer remove monolog/monolog
+
+		- Update everything:
+		composer update
+
+

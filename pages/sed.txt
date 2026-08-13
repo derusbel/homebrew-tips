@@ -1,0 +1,21 @@
+
+
+	sed
+	
+	Replaces text inside a file.
+	More information: https://manned.org/sed.
+				[38;2;255;66;69m
+	Warning: *The second one edits your file for good. Keep a copy first.*
+				[0m
+
+
+		- See the file with a word replaced:
+		sed 's/old/new/g' file.txt
+
+		- Actually change the file itself:
+		sed -i '' 's/old/new/g' file.txt
+
+		- Delete the empty lines:
+		sed '/^$/d' file.txt
+
+

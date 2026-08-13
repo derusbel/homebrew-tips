@@ -1,0 +1,15 @@
+
+
+	npx
+	
+	Runs a tool once, without installing it for good.
+	More information: https://docs.npmjs.com/cli/v10/commands/npx.
+
+
+		- Run a tool just this once:
+		npx create-react-app my-app
+
+		- Run a chosen version of it:
+		npx typescript@5 --version
+
+

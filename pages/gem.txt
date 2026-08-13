@@ -1,0 +1,21 @@
+
+
+	gem
+	
+	Installs the building blocks that Ruby projects need.
+	More information: https://guides.rubygems.org/command-reference/.
+
+
+		- Install something:
+		gem install rails
+
+		- Remove it:
+		gem uninstall rails
+
+		- See what you have:
+		gem list
+
+		- Update everything:
+		gem update
+
+

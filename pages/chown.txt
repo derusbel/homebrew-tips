@@ -1,0 +1,17 @@
+
+
+	chown
+	
+	Changes who owns a file.
+	More information: https://manned.org/chown.
+
+
+		- Give a file to a person:
+		sudo chown name file.txt
+
+		- Give a folder and everything inside to a person:
+		sudo chown -R name folder/
+
+
+	 This one usually needs "sudo", because you are touching someone else's things.
+

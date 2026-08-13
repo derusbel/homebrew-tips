@@ -1,0 +1,23 @@
+
+
+	find
+	
+	Looks for files and folders by their name.
+	More information: https://manned.org/find.
+
+
+		- Find a file by its exact name:
+		find . -name "notes.txt"
+
+		- Find every photo, whatever it is called:
+		find . -name "*.jpg"
+
+		- Find folders only:
+		find . -type d -name "photos"
+
+		- Search a specific folder:
+		find path/to/folder -name "notes.txt"
+
+
+	 The dot means "start looking right here".
+

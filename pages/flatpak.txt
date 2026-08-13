@@ -1,0 +1,21 @@
+
+
+	flatpak
+	
+	Installs apps on Linux that run the same on every distribution.
+	More information: https://docs.flatpak.org/en/latest/using-flatpak.html.
+
+
+		- Install an app:
+		flatpak install flathub org.videolan.VLC
+
+		- Run it:
+		flatpak run org.videolan.VLC
+
+		- Remove it:
+		flatpak uninstall org.videolan.VLC
+
+		- Update everything:
+		flatpak update
+
+

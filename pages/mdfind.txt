@@ -1,0 +1,18 @@
+
+
+	mdfind
+	
+	Searches your whole machine, the same way the search bar does.
+	More information: https://manned.org/mdfind.
+
+
+		- Search everywhere for a word:
+		mdfind "holiday"
+
+		- Search by file name only:
+		mdfind -name "notes.txt"
+
+		- Search inside one folder:
+		mdfind -onlyin path/to/folder "holiday"
+
+

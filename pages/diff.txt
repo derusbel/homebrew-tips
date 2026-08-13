@@ -1,0 +1,20 @@
+
+
+	diff
+	
+	Shows what is different between two files.
+	More information: https://manned.org/diff.
+
+
+		- Compare two files:
+		diff file1.txt file2.txt
+
+		- Compare them side by side:
+		diff -y file1.txt file2.txt
+
+		- Just say whether they are the same:
+		diff -q file1.txt file2.txt
+
+
+	 No answer at all means the files are identical.
+

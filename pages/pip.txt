@@ -1,0 +1,23 @@
+
+
+	pip
+	
+	Installs the building blocks that Python projects need.
+	More information: https://pip.pypa.io/en/stable/cli/.
+
+
+		- Install something:
+		pip install requests
+
+		- Install everything a project asks for:
+		pip install -r requirements.txt
+
+		- Remove something:
+		pip uninstall requests
+
+		- See what you have installed:
+		pip list
+
+
+	 On many Macs the command is written "pip3".
+

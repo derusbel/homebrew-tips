@@ -1,0 +1,21 @@
+
+
+	git-clean
+	
+	Deletes files that git is not keeping track of.
+	More information: https://git-scm.com/docs/git-clean.
+				[38;2;255;66;69m
+	Warning: *These files were never saved by git, so they cannot come back. Always look with -n first.*
+				[0m
+
+
+		- See what it would delete, without deleting:
+		git clean -n
+
+		- Delete those files:
+		git clean -f
+
+		- Delete the untracked folders too:
+		git clean -fd
+
+

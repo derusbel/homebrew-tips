@@ -1,0 +1,21 @@
+
+
+	git-tag
+	
+	Puts a label on a save, usually to mark a version.
+	More information: https://git-scm.com/docs/git-tag.
+
+
+		- See your labels:
+		git tag
+
+		- Label the current save:
+		git tag v1.0.0
+
+		- Label it with a note:
+		git tag -a v1.0.0 -m "First release"
+
+		- Send your labels to GitHub:
+		git push --tags
+
+

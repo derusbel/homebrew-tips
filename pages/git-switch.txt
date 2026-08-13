@@ -1,0 +1,20 @@
+
+
+	git-switch
+	
+	Moves you onto another branch.
+	More information: https://git-scm.com/docs/git-switch.
+
+
+		- Move onto a branch:
+		git switch my-idea
+
+		- Make a branch and move onto it at once:
+		git switch -c my-idea
+
+		- Go back to the branch you were just on:
+		git switch -
+
+
+	 This is the modern, clearer half of the old "git-checkout" command.
+

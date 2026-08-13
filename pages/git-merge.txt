@@ -1,0 +1,20 @@
+
+
+	git-merge
+	
+	Joins the work from another branch into the one you are on.
+	More information: https://git-scm.com/docs/git-merge.
+
+
+		- Bring a branch into this one:
+		git merge my-idea
+
+		- Bring it in and always keep a record of the join:
+		git merge --no-ff my-idea
+
+		- Give up on a join that went wrong:
+		git merge --abort
+
+
+	 If git says there is a conflict, open the files it names, keep the lines you want, then save again.
+

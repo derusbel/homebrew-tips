@@ -1,0 +1,23 @@
+
+
+	grep
+	
+	Finds words inside files.
+	More information: https://manned.org/grep.
+
+
+		- Look for a word in a file:
+		grep "hello" file.txt
+
+		- Look for it without caring about capital letters:
+		grep -i "hello" file.txt
+
+		- Look inside every file in a folder:
+		grep -r "hello" folder/
+
+		- See which line numbers it was found on:
+		grep -n "hello" file.txt
+
+
+	 Looking for a file instead of a word? See the "find" page.
+

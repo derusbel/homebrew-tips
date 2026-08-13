@@ -1,0 +1,18 @@
+
+
+	sleep
+	
+	Waits for a while before letting the next thing happen.
+	More information: https://manned.org/sleep.
+
+
+		- Wait 5 seconds:
+		sleep 5
+
+		- Wait 2 minutes:
+		sleep 2m
+
+		- Wait 10 seconds, then say something:
+		sleep 10 && echo "Time is up"
+
+

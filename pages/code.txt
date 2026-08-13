@@ -1,0 +1,20 @@
+
+
+	code
+	
+	Opens files and folders in Visual Studio Code.
+	More information: https://code.visualstudio.com/docs/editor/command-line.
+
+
+		- Open the folder you are in:
+		code .
+
+		- Open one file:
+		code file.txt
+
+		- Open it in the window you already have:
+		code -r file.txt
+
+
+	 If nothing happens, open VS Code and turn on the "code" command from its command palette.
+
